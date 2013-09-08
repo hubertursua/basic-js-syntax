@@ -2,29 +2,29 @@
 
 ## Contents
 
-* Variables and data types
-	* Strings
-	* Numbers
-	* Booleans
-	* Functions
-	* Arrays
-	* JSON objects
-* Conditions
-	* if statements
-	* switch statements
-	* Comparison operators
-	* Logical operators
-* Loops
-	* for loops
-	* for-each loops
-	* while loops
-	* do-while loops
-* Functions
-	* Named functions
-	* Anonymous functions
-	* Invoking a function
-	* Default parameter values
-* Comments
+* [Variables and data types](#variables-and-data-types)
+	* [Strings](#strings)
+	* [Numbers](#numbers)
+	* [Booleans](#booleans)
+	* [Functions](#functions)
+	* [Arrays](#arrays)
+	* [JSON objects](#json-objects)
+* [Conditions](#conditions)
+	* [if statements](#if-statements)
+	* [switch statements](#switch-statements)
+	* [Comparison operators](#comparison-operators)
+	* [Logical operators](#logical-operators)
+* [Loops](#loops)
+	* [for loops](#for-loops)
+	* [for-each loops](#for-each-loops)
+	* [while loops](#while-loops)
+	* [do-while loops](#do-while-loops)
+* [Functions](#functions)
+	* [Named functions](#named-functions)
+	* [Anonymous functions](#anonymous-functions)
+	* [Invoking a function](#invoking-a-function)
+	* [Default parameter values](#default-parameter-values)
+* [Comments](#comments)
 
 ## Variables and data types
 Declaring variables in JavaScript is done using the `var` keyword. JavaScript is a weakly-typed language, thus you do not need to specify a data type. It will try to detect it automatically.
